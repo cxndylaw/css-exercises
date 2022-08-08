@@ -1,0 +1,14 @@
+.boop {
+    background-color: black;
+    color: white;
+}
+
+.beep {
+    background-color: yellow;
+}
+
+.beep,
+.boop {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
